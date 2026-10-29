@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="306 276 466 555" role="img" aria-label="Herb KS Unia Ząbkowice 1922">
+  <!-- Herb KS Unia Ząbkowice – wektor odtworzony z aktualnego logo klubu -->
+  <defs>
+    <clipPath id="srodek"><path d="M323 293H755V590C755 694 644 784 539 812C434 784 323 694 323 590Z"/></clipPath>
+    <clipPath id="lewa"><rect x="300" y="270" width="239" height="570"/></clipPath>
+    <clipPath id="prawa"><rect x="539" y="270" width="240" height="570"/></clipPath>
+    <g id="napis" fill="currentColor" stroke="currentColor">
+      <!-- U -->
+      <path d="M351.5 445V542a37 37 0 0 0 74 0V445" fill="none" stroke-width="26"/>
+      <!-- N -->
+      <path d="M456 445h26v147h-26zM538 445h25v147h-25zM462 445h28l71 147h-28z" stroke="none"/>
+      <!-- I -->
+      <rect x="587" y="445" width="25" height="147" stroke="none"/>
+      <!-- A -->
+      <path d="M645 592V495.5a37.5 37.5 0 0 1 75 0V592" fill="none" stroke-width="26"/>
+      <rect x="645" y="509" width="75" height="22" stroke="none"/>
+      <!-- 1922 -->
+      <text x="541.5" y="772" text-anchor="middle" stroke="none" font-family="'Arial Black','Arial Bold',Arial,Helvetica,sans-serif" font-weight="900" font-size="62" textLength="128" lengthAdjust="spacingAndGlyphs">1922</text>
+    </g>
+  </defs>
+
+  <!-- tarcza z obwódką -->
+  <path d="M313 283H765V590C765 700 648 795 539 824C430 795 313 700 313 590Z" fill="#0f3963"/>
+  <g clip-path="url(#srodek)" fill="#fff">
+    <rect x="539" y="280" width="240" height="110"/>
+    <rect x="300" y="390" width="239" height="450"/>
+  </g>
+
+  <!-- K (białe na granacie) -->
+  <g fill="#fff">
+    <rect x="400" y="296" width="15" height="88"/>
+    <path d="M443 296h15l-32 46h-15z"/>
+    <path d="M412 336h17l25 17v31h-14v-26z"/>
+  </g>
+  <!-- S (granatowe na bieli) -->
+  <path d="M670 305H638Q627 305 627 318Q627 330 640 335L656 343Q668 349 668 362Q668 377 652 377H621" fill="none" stroke="#0f3963" stroke-width="13"/>
+
+  <!-- UNIA i 1922: granat na białym polu, biel na granatowym -->
+  <use xlink:href="#napis" href="#napis" clip-path="url(#lewa)" color="#0f3963"/>
+  <use xlink:href="#napis" href="#napis" clip-path="url(#prawa)" color="#fff"/>
+</svg>

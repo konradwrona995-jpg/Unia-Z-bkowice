@@ -1,0 +1,2639 @@
+{
+    "tabela": [
+        {
+            "poz": 1,
+            "nazwa": "Górnik Wojkowice",
+            "slug": "gornik-wojkowice",
+            "m": 12,
+            "pkt": 31,
+            "w": 10,
+            "r": 1,
+            "p": 1,
+            "bz": 34,
+            "bs": 13
+        },
+        {
+            "poz": 2,
+            "nazwa": "Ostoja Żelisławice",
+            "slug": "ostoja-zelislawice",
+            "m": 12,
+            "pkt": 26,
+            "w": 8,
+            "r": 2,
+            "p": 2,
+            "bz": 32,
+            "bs": 21
+        },
+        {
+            "poz": 3,
+            "nazwa": "Przemsza Okradzionów",
+            "slug": "przemsza-okradzionow",
+            "m": 12,
+            "pkt": 25,
+            "w": 8,
+            "r": 1,
+            "p": 3,
+            "bz": 41,
+            "bs": 28
+        },
+        {
+            "poz": 4,
+            "nazwa": "Niwy Brudzowice",
+            "slug": "niwy-brudzowice",
+            "m": 12,
+            "pkt": 24,
+            "w": 7,
+            "r": 3,
+            "p": 2,
+            "bz": 32,
+            "bs": 20
+        },
+        {
+            "poz": 5,
+            "nazwa": "GKS III Katowice",
+            "slug": "gks-iii-katowice",
+            "m": 12,
+            "pkt": 22,
+            "w": 7,
+            "r": 1,
+            "p": 4,
+            "bz": 36,
+            "bs": 25
+        },
+        {
+            "poz": 6,
+            "nazwa": "Warta Zawiercie",
+            "slug": "warta-zawiercie",
+            "m": 12,
+            "pkt": 22,
+            "w": 7,
+            "r": 1,
+            "p": 4,
+            "bz": 31,
+            "bs": 20
+        },
+        {
+            "poz": 7,
+            "nazwa": "Siemianowiczanka",
+            "slug": "siemianowiczanka",
+            "m": 11,
+            "pkt": 19,
+            "w": 6,
+            "r": 1,
+            "p": 4,
+            "bz": 28,
+            "bs": 15
+        },
+        {
+            "poz": 8,
+            "nazwa": "Unia Ząbkowice",
+            "slug": "unia-zabkowice",
+            "m": 11,
+            "pkt": 16,
+            "w": 5,
+            "r": 1,
+            "p": 5,
+            "bz": 30,
+            "bs": 32
+        },
+        {
+            "poz": 9,
+            "nazwa": "Stadion Śląski Chorzów",
+            "slug": "stadion-slaski-chorzow",
+            "m": 11,
+            "pkt": 15,
+            "w": 4,
+            "r": 3,
+            "p": 4,
+            "bz": 22,
+            "bs": 21
+        },
+        {
+            "poz": 10,
+            "nazwa": "Pogoń Imielin",
+            "slug": "pogon-imielin",
+            "m": 12,
+            "pkt": 15,
+            "w": 5,
+            "r": 0,
+            "p": 7,
+            "bz": 21,
+            "bs": 27
+        },
+        {
+            "poz": 11,
+            "nazwa": "Unia Kosztowy",
+            "slug": "unia-kosztowy",
+            "m": 11,
+            "pkt": 14,
+            "w": 4,
+            "r": 2,
+            "p": 5,
+            "bz": 19,
+            "bs": 18
+        },
+        {
+            "poz": 12,
+            "nazwa": "Jastrząb Bielszowice",
+            "slug": "jastrzab-bielszowice",
+            "m": 12,
+            "pkt": 13,
+            "w": 4,
+            "r": 1,
+            "p": 7,
+            "bz": 18,
+            "bs": 31
+        },
+        {
+            "poz": 13,
+            "nazwa": "Cyklon Rogoźnik",
+            "slug": "cyklon-rogoznik",
+            "m": 12,
+            "pkt": 10,
+            "w": 3,
+            "r": 1,
+            "p": 8,
+            "bz": 20,
+            "bs": 30
+        },
+        {
+            "poz": 14,
+            "nazwa": "Wawel Wirek",
+            "slug": "wawel-wirek",
+            "m": 12,
+            "pkt": 8,
+            "w": 2,
+            "r": 2,
+            "p": 8,
+            "bz": 14,
+            "bs": 27
+        },
+        {
+            "poz": 15,
+            "nazwa": "Górnik Sosnowiec",
+            "slug": "gornik-sosnowiec",
+            "m": 11,
+            "pkt": 7,
+            "w": 2,
+            "r": 1,
+            "p": 8,
+            "bz": 19,
+            "bs": 39
+        },
+        {
+            "poz": 16,
+            "nazwa": "Urania Ruda Śląska",
+            "slug": "urania-ruda-slaska",
+            "m": 11,
+            "pkt": 1,
+            "w": 0,
+            "r": 1,
+            "p": 10,
+            "bz": 10,
+            "bs": 40
+        }
+    ],
+    "mecze": [
+        {
+            "kolejka": 1,
+            "gosp": "Wawel Wirek",
+            "gosp_slug": "wawel-wirek",
+            "gosc": "Stadion Śląski Chorzów",
+            "gosc_slug": "stadion-slaski-chorzow",
+            "wynik": [
+                2,
+                2
+            ],
+            "data": "2026-08-12T18:00"
+        },
+        {
+            "kolejka": 1,
+            "gosp": "Ostoja Żelisławice",
+            "gosp_slug": "ostoja-zelislawice",
+            "gosc": "Cyklon Rogoźnik",
+            "gosc_slug": "cyklon-rogoznik",
+            "wynik": [
+                4,
+                1
+            ],
+            "data": "2026-08-08T17:00"
+        },
+        {
+            "kolejka": 1,
+            "gosp": "Przemsza Okradzionów",
+            "gosp_slug": "przemsza-okradzionow",
+            "gosc": "Unia Ząbkowice",
+            "gosc_slug": "unia-zabkowice",
+            "wynik": [
+                7,
+                5
+            ],
+            "data": "2026-09-16T16:45"
+        },
+        {
+            "kolejka": 1,
+            "gosp": "Urania Ruda Śląska",
+            "gosp_slug": "urania-ruda-slaska",
+            "gosc": "Górnik Wojkowice",
+            "gosc_slug": "gornik-wojkowice",
+            "wynik": [
+                1,
+                3
+            ],
+            "data": "2026-08-08T11:00"
+        },
+        {
+            "kolejka": 1,
+            "gosp": "Unia Kosztowy",
+            "gosp_slug": "unia-kosztowy",
+            "gosc": "Górnik Sosnowiec",
+            "gosc_slug": "gornik-sosnowiec",
+            "wynik": null,
+            "data": "2026-11-21T11:00"
+        },
+        {
+            "kolejka": 1,
+            "gosp": "Pogoń Imielin",
+            "gosp_slug": "pogon-imielin",
+            "gosc": "GKS III Katowice",
+            "gosc_slug": "gks-iii-katowice",
+            "wynik": [
+                1,
+                2
+            ],
+            "data": "2026-08-08T11:00"
+        },
+        {
+            "kolejka": 1,
+            "gosp": "Niwy Brudzowice",
+            "gosp_slug": "niwy-brudzowice",
+            "gosc": "Siemianowiczanka",
+            "gosc_slug": "siemianowiczanka",
+            "wynik": [
+                2,
+                0
+            ],
+            "data": "2026-08-08T12:00"
+        },
+        {
+            "kolejka": 1,
+            "gosp": "Jastrząb Bielszowice",
+            "gosp_slug": "jastrzab-bielszowice",
+            "gosc": "Warta Zawiercie",
+            "gosc_slug": "warta-zawiercie",
+            "wynik": [
+                3,
+                1
+            ],
+            "data": "2026-08-08T16:00"
+        },
+        {
+            "kolejka": 2,
+            "gosp": "Stadion Śląski Chorzów",
+            "gosp_slug": "stadion-slaski-chorzow",
+            "gosc": "Siemianowiczanka",
+            "gosc_slug": "siemianowiczanka",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 2,
+            "gosp": "GKS III Katowice",
+            "gosp_slug": "gks-iii-katowice",
+            "gosc": "Niwy Brudzowice",
+            "gosc_slug": "niwy-brudzowice",
+            "wynik": [
+                4,
+                2
+            ],
+            "data": "2026-08-16T13:00"
+        },
+        {
+            "kolejka": 2,
+            "gosp": "Górnik Sosnowiec",
+            "gosp_slug": "gornik-sosnowiec",
+            "gosc": "Pogoń Imielin",
+            "gosc_slug": "pogon-imielin",
+            "wynik": [
+                5,
+                4
+            ],
+            "data": "2026-08-15T17:00"
+        },
+        {
+            "kolejka": 2,
+            "gosp": "Górnik Wojkowice",
+            "gosp_slug": "gornik-wojkowice",
+            "gosc": "Unia Kosztowy",
+            "gosc_slug": "unia-kosztowy",
+            "wynik": [
+                3,
+                1
+            ],
+            "data": "2026-08-15T15:00"
+        },
+        {
+            "kolejka": 2,
+            "gosp": "Unia Ząbkowice",
+            "gosp_slug": "unia-zabkowice",
+            "gosc": "Urania Ruda Śląska",
+            "gosc_slug": "urania-ruda-slaska",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 2,
+            "gosp": "Cyklon Rogoźnik",
+            "gosp_slug": "cyklon-rogoznik",
+            "gosc": "Przemsza Okradzionów",
+            "gosc_slug": "przemsza-okradzionow",
+            "wynik": [
+                1,
+                3
+            ],
+            "data": "2026-08-15T17:00"
+        },
+        {
+            "kolejka": 2,
+            "gosp": "Jastrząb Bielszowice",
+            "gosp_slug": "jastrzab-bielszowice",
+            "gosc": "Ostoja Żelisławice",
+            "gosc_slug": "ostoja-zelislawice",
+            "wynik": [
+                1,
+                2
+            ],
+            "data": "2026-08-15T16:00"
+        },
+        {
+            "kolejka": 2,
+            "gosp": "Wawel Wirek",
+            "gosp_slug": "wawel-wirek",
+            "gosc": "Warta Zawiercie",
+            "gosc_slug": "warta-zawiercie",
+            "wynik": [
+                0,
+                2
+            ],
+            "data": "2026-08-16T11:00"
+        },
+        {
+            "kolejka": 3,
+            "gosp": "Warta Zawiercie",
+            "gosp_slug": "warta-zawiercie",
+            "gosc": "Stadion Śląski Chorzów",
+            "gosc_slug": "stadion-slaski-chorzow",
+            "wynik": [
+                4,
+                0
+            ],
+            "data": "2026-08-21T17:30"
+        },
+        {
+            "kolejka": 3,
+            "gosp": "Ostoja Żelisławice",
+            "gosp_slug": "ostoja-zelislawice",
+            "gosc": "Wawel Wirek",
+            "gosc_slug": "wawel-wirek",
+            "wynik": [
+                2,
+                1
+            ],
+            "data": "2026-08-22T11:00"
+        },
+        {
+            "kolejka": 3,
+            "gosp": "Przemsza Okradzionów",
+            "gosp_slug": "przemsza-okradzionow",
+            "gosc": "Jastrząb Bielszowice",
+            "gosc_slug": "jastrzab-bielszowice",
+            "wynik": [
+                2,
+                0
+            ],
+            "data": "2026-08-22T13:00"
+        },
+        {
+            "kolejka": 3,
+            "gosp": "Urania Ruda Śląska",
+            "gosp_slug": "urania-ruda-slaska",
+            "gosc": "Cyklon Rogoźnik",
+            "gosc_slug": "cyklon-rogoznik",
+            "wynik": [
+                1,
+                3
+            ],
+            "data": "2026-08-22T11:30"
+        },
+        {
+            "kolejka": 3,
+            "gosp": "Unia Kosztowy",
+            "gosp_slug": "unia-kosztowy",
+            "gosc": "Unia Ząbkowice",
+            "gosc_slug": "unia-zabkowice",
+            "wynik": [
+                5,
+                0
+            ],
+            "data": "2026-08-22T17:00"
+        },
+        {
+            "kolejka": 3,
+            "gosp": "Pogoń Imielin",
+            "gosp_slug": "pogon-imielin",
+            "gosc": "Górnik Wojkowice",
+            "gosc_slug": "gornik-wojkowice",
+            "wynik": [
+                0,
+                1
+            ],
+            "data": "2026-08-22T11:00"
+        },
+        {
+            "kolejka": 3,
+            "gosp": "Niwy Brudzowice",
+            "gosp_slug": "niwy-brudzowice",
+            "gosc": "Górnik Sosnowiec",
+            "gosc_slug": "gornik-sosnowiec",
+            "wynik": [
+                3,
+                1
+            ],
+            "data": "2026-08-22T15:00"
+        },
+        {
+            "kolejka": 3,
+            "gosp": "Siemianowiczanka",
+            "gosp_slug": "siemianowiczanka",
+            "gosc": "GKS III Katowice",
+            "gosc_slug": "gks-iii-katowice",
+            "wynik": [
+                5,
+                0
+            ],
+            "data": "2026-08-22T17:00"
+        },
+        {
+            "kolejka": 4,
+            "gosp": "Stadion Śląski Chorzów",
+            "gosp_slug": "stadion-slaski-chorzow",
+            "gosc": "GKS III Katowice",
+            "gosc_slug": "gks-iii-katowice",
+            "wynik": [
+                3,
+                2
+            ],
+            "data": "2026-08-29T14:00"
+        },
+        {
+            "kolejka": 4,
+            "gosp": "Górnik Sosnowiec",
+            "gosp_slug": "gornik-sosnowiec",
+            "gosc": "Siemianowiczanka",
+            "gosc_slug": "siemianowiczanka",
+            "wynik": [
+                1,
+                5
+            ],
+            "data": "2026-08-30T17:00"
+        },
+        {
+            "kolejka": 4,
+            "gosp": "Górnik Wojkowice",
+            "gosp_slug": "gornik-wojkowice",
+            "gosc": "Niwy Brudzowice",
+            "gosc_slug": "niwy-brudzowice",
+            "wynik": [
+                3,
+                1
+            ],
+            "data": "2026-08-29T15:00"
+        },
+        {
+            "kolejka": 4,
+            "gosp": "Unia Ząbkowice",
+            "gosp_slug": "unia-zabkowice",
+            "gosc": "Pogoń Imielin",
+            "gosc_slug": "pogon-imielin",
+            "wynik": [
+                1,
+                2
+            ],
+            "data": "2026-08-29T11:00"
+        },
+        {
+            "kolejka": 4,
+            "gosp": "Cyklon Rogoźnik",
+            "gosp_slug": "cyklon-rogoznik",
+            "gosc": "Unia Kosztowy",
+            "gosc_slug": "unia-kosztowy",
+            "wynik": [
+                1,
+                2
+            ],
+            "data": "2026-08-29T11:00"
+        },
+        {
+            "kolejka": 4,
+            "gosp": "Jastrząb Bielszowice",
+            "gosp_slug": "jastrzab-bielszowice",
+            "gosc": "Urania Ruda Śląska",
+            "gosc_slug": "urania-ruda-slaska",
+            "wynik": [
+                5,
+                4
+            ],
+            "data": "2026-08-29T16:00"
+        },
+        {
+            "kolejka": 4,
+            "gosp": "Wawel Wirek",
+            "gosp_slug": "wawel-wirek",
+            "gosc": "Przemsza Okradzionów",
+            "gosc_slug": "przemsza-okradzionow",
+            "wynik": [
+                2,
+                4
+            ],
+            "data": "2026-08-29T11:00"
+        },
+        {
+            "kolejka": 4,
+            "gosp": "Warta Zawiercie",
+            "gosp_slug": "warta-zawiercie",
+            "gosc": "Ostoja Żelisławice",
+            "gosc_slug": "ostoja-zelislawice",
+            "wynik": [
+                2,
+                2
+            ],
+            "data": "2026-08-30T16:30"
+        },
+        {
+            "kolejka": 5,
+            "gosp": "Ostoja Żelisławice",
+            "gosp_slug": "ostoja-zelislawice",
+            "gosc": "Stadion Śląski Chorzów",
+            "gosc_slug": "stadion-slaski-chorzow",
+            "wynik": [
+                2,
+                0
+            ],
+            "data": "2026-09-05T11:00"
+        },
+        {
+            "kolejka": 5,
+            "gosp": "Przemsza Okradzionów",
+            "gosp_slug": "przemsza-okradzionow",
+            "gosc": "Warta Zawiercie",
+            "gosc_slug": "warta-zawiercie",
+            "wynik": [
+                0,
+                3
+            ],
+            "data": "2026-09-05T17:00"
+        },
+        {
+            "kolejka": 5,
+            "gosp": "Urania Ruda Śląska",
+            "gosp_slug": "urania-ruda-slaska",
+            "gosc": "Wawel Wirek",
+            "gosc_slug": "wawel-wirek",
+            "wynik": [
+                1,
+                3
+            ],
+            "data": "2026-09-05T11:15"
+        },
+        {
+            "kolejka": 5,
+            "gosp": "Unia Kosztowy",
+            "gosp_slug": "unia-kosztowy",
+            "gosc": "Jastrząb Bielszowice",
+            "gosc_slug": "jastrzab-bielszowice",
+            "wynik": [
+                1,
+                1
+            ],
+            "data": "2026-09-05T16:00"
+        },
+        {
+            "kolejka": 5,
+            "gosp": "Pogoń Imielin",
+            "gosp_slug": "pogon-imielin",
+            "gosc": "Cyklon Rogoźnik",
+            "gosc_slug": "cyklon-rogoznik",
+            "wynik": [
+                1,
+                4
+            ],
+            "data": "2026-09-05T11:00"
+        },
+        {
+            "kolejka": 5,
+            "gosp": "Niwy Brudzowice",
+            "gosp_slug": "niwy-brudzowice",
+            "gosc": "Unia Ząbkowice",
+            "gosc_slug": "unia-zabkowice",
+            "wynik": [
+                3,
+                3
+            ],
+            "data": "2026-09-05T15:00"
+        },
+        {
+            "kolejka": 5,
+            "gosp": "Siemianowiczanka",
+            "gosp_slug": "siemianowiczanka",
+            "gosc": "Górnik Wojkowice",
+            "gosc_slug": "gornik-wojkowice",
+            "wynik": [
+                0,
+                3
+            ],
+            "data": "2026-09-05T16:30"
+        },
+        {
+            "kolejka": 5,
+            "gosp": "GKS III Katowice",
+            "gosp_slug": "gks-iii-katowice",
+            "gosc": "Górnik Sosnowiec",
+            "gosc_slug": "gornik-sosnowiec",
+            "wynik": [
+                2,
+                2
+            ],
+            "data": "2026-09-05T16:00"
+        },
+        {
+            "kolejka": 6,
+            "gosp": "Stadion Śląski Chorzów",
+            "gosp_slug": "stadion-slaski-chorzow",
+            "gosc": "Górnik Sosnowiec",
+            "gosc_slug": "gornik-sosnowiec",
+            "wynik": [
+                5,
+                1
+            ],
+            "data": "2026-09-13T12:00"
+        },
+        {
+            "kolejka": 6,
+            "gosp": "Górnik Wojkowice",
+            "gosp_slug": "gornik-wojkowice",
+            "gosc": "GKS III Katowice",
+            "gosc_slug": "gks-iii-katowice",
+            "wynik": [
+                4,
+                0
+            ],
+            "data": "2026-09-12T14:00"
+        },
+        {
+            "kolejka": 6,
+            "gosp": "Unia Ząbkowice",
+            "gosp_slug": "unia-zabkowice",
+            "gosc": "Siemianowiczanka",
+            "gosc_slug": "siemianowiczanka",
+            "wynik": [
+                1,
+                0
+            ],
+            "data": "2026-09-12T11:00"
+        },
+        {
+            "kolejka": 6,
+            "gosp": "Cyklon Rogoźnik",
+            "gosp_slug": "cyklon-rogoznik",
+            "gosc": "Niwy Brudzowice",
+            "gosc_slug": "niwy-brudzowice",
+            "wynik": [
+                1,
+                2
+            ],
+            "data": "2026-09-12T16:00"
+        },
+        {
+            "kolejka": 6,
+            "gosp": "Jastrząb Bielszowice",
+            "gosp_slug": "jastrzab-bielszowice",
+            "gosc": "Pogoń Imielin",
+            "gosc_slug": "pogon-imielin",
+            "wynik": [
+                1,
+                4
+            ],
+            "data": "2026-09-12T14:30"
+        },
+        {
+            "kolejka": 6,
+            "gosp": "Wawel Wirek",
+            "gosp_slug": "wawel-wirek",
+            "gosc": "Unia Kosztowy",
+            "gosc_slug": "unia-kosztowy",
+            "wynik": [
+                2,
+                1
+            ],
+            "data": "2026-09-12T11:30"
+        },
+        {
+            "kolejka": 6,
+            "gosp": "Warta Zawiercie",
+            "gosp_slug": "warta-zawiercie",
+            "gosc": "Urania Ruda Śląska",
+            "gosc_slug": "urania-ruda-slaska",
+            "wynik": [
+                5,
+                0
+            ],
+            "data": "2026-09-12T16:00"
+        },
+        {
+            "kolejka": 6,
+            "gosp": "Ostoja Żelisławice",
+            "gosp_slug": "ostoja-zelislawice",
+            "gosc": "Przemsza Okradzionów",
+            "gosc_slug": "przemsza-okradzionow",
+            "wynik": [
+                2,
+                3
+            ],
+            "data": "2026-09-12T11:00"
+        },
+        {
+            "kolejka": 7,
+            "gosp": "Przemsza Okradzionów",
+            "gosp_slug": "przemsza-okradzionow",
+            "gosc": "Stadion Śląski Chorzów",
+            "gosc_slug": "stadion-slaski-chorzow",
+            "wynik": [
+                2,
+                0
+            ],
+            "data": "2026-09-19T11:00"
+        },
+        {
+            "kolejka": 7,
+            "gosp": "Urania Ruda Śląska",
+            "gosp_slug": "urania-ruda-slaska",
+            "gosc": "Ostoja Żelisławice",
+            "gosc_slug": "ostoja-zelislawice",
+            "wynik": [
+                1,
+                5
+            ],
+            "data": "2026-09-19T11:15"
+        },
+        {
+            "kolejka": 7,
+            "gosp": "Unia Kosztowy",
+            "gosp_slug": "unia-kosztowy",
+            "gosc": "Warta Zawiercie",
+            "gosc_slug": "warta-zawiercie",
+            "wynik": [
+                1,
+                0
+            ],
+            "data": "2026-09-19T16:00"
+        },
+        {
+            "kolejka": 7,
+            "gosp": "Pogoń Imielin",
+            "gosp_slug": "pogon-imielin",
+            "gosc": "Wawel Wirek",
+            "gosc_slug": "wawel-wirek",
+            "wynik": [
+                1,
+                0
+            ],
+            "data": "2026-09-19T11:00"
+        },
+        {
+            "kolejka": 7,
+            "gosp": "Niwy Brudzowice",
+            "gosp_slug": "niwy-brudzowice",
+            "gosc": "Jastrząb Bielszowice",
+            "gosc_slug": "jastrzab-bielszowice",
+            "wynik": [
+                5,
+                2
+            ],
+            "data": "2026-09-19T15:30"
+        },
+        {
+            "kolejka": 7,
+            "gosp": "Siemianowiczanka",
+            "gosp_slug": "siemianowiczanka",
+            "gosc": "Cyklon Rogoźnik",
+            "gosc_slug": "cyklon-rogoznik",
+            "wynik": [
+                2,
+                0
+            ],
+            "data": "2026-09-19T16:00"
+        },
+        {
+            "kolejka": 7,
+            "gosp": "GKS III Katowice",
+            "gosp_slug": "gks-iii-katowice",
+            "gosc": "Unia Ząbkowice",
+            "gosc_slug": "unia-zabkowice",
+            "wynik": [
+                4,
+                1
+            ],
+            "data": "2026-09-20T18:00"
+        },
+        {
+            "kolejka": 7,
+            "gosp": "Górnik Sosnowiec",
+            "gosp_slug": "gornik-sosnowiec",
+            "gosc": "Górnik Wojkowice",
+            "gosc_slug": "gornik-wojkowice",
+            "wynik": [
+                1,
+                5
+            ],
+            "data": "2026-09-19T14:00"
+        },
+        {
+            "kolejka": 8,
+            "gosp": "Stadion Śląski Chorzów",
+            "gosp_slug": "stadion-slaski-chorzow",
+            "gosc": "Górnik Wojkowice",
+            "gosc_slug": "gornik-wojkowice",
+            "wynik": [
+                2,
+                2
+            ],
+            "data": "2026-09-27T11:05"
+        },
+        {
+            "kolejka": 8,
+            "gosp": "Unia Ząbkowice",
+            "gosp_slug": "unia-zabkowice",
+            "gosc": "Górnik Sosnowiec",
+            "gosc_slug": "gornik-sosnowiec",
+            "wynik": [
+                7,
+                2
+            ],
+            "data": "2026-09-26T16:00"
+        },
+        {
+            "kolejka": 8,
+            "gosp": "Cyklon Rogoźnik",
+            "gosp_slug": "cyklon-rogoznik",
+            "gosc": "GKS III Katowice",
+            "gosc_slug": "gks-iii-katowice",
+            "wynik": [
+                0,
+                5
+            ],
+            "data": "2026-09-26T16:00"
+        },
+        {
+            "kolejka": 8,
+            "gosp": "Jastrząb Bielszowice",
+            "gosp_slug": "jastrzab-bielszowice",
+            "gosc": "Siemianowiczanka",
+            "gosc_slug": "siemianowiczanka",
+            "wynik": [
+                0,
+                3
+            ],
+            "data": "2026-09-26T16:00"
+        },
+        {
+            "kolejka": 8,
+            "gosp": "Wawel Wirek",
+            "gosp_slug": "wawel-wirek",
+            "gosc": "Niwy Brudzowice",
+            "gosc_slug": "niwy-brudzowice",
+            "wynik": [
+                2,
+                2
+            ],
+            "data": "2026-09-27T13:00"
+        },
+        {
+            "kolejka": 8,
+            "gosp": "Warta Zawiercie",
+            "gosp_slug": "warta-zawiercie",
+            "gosc": "Pogoń Imielin",
+            "gosc_slug": "pogon-imielin",
+            "wynik": [
+                4,
+                0
+            ],
+            "data": "2026-09-26T16:00"
+        },
+        {
+            "kolejka": 8,
+            "gosp": "Ostoja Żelisławice",
+            "gosp_slug": "ostoja-zelislawice",
+            "gosc": "Unia Kosztowy",
+            "gosc_slug": "unia-kosztowy",
+            "wynik": [
+                3,
+                2
+            ],
+            "data": "2026-09-26T11:00"
+        },
+        {
+            "kolejka": 8,
+            "gosp": "Przemsza Okradzionów",
+            "gosp_slug": "przemsza-okradzionow",
+            "gosc": "Urania Ruda Śląska",
+            "gosc_slug": "urania-ruda-slaska",
+            "wynik": [
+                10,
+                1
+            ],
+            "data": "2026-09-26T13:00"
+        },
+        {
+            "kolejka": 9,
+            "gosp": "Urania Ruda Śląska",
+            "gosp_slug": "urania-ruda-slaska",
+            "gosc": "Stadion Śląski Chorzów",
+            "gosc_slug": "stadion-slaski-chorzow",
+            "wynik": [
+                0,
+                2
+            ],
+            "data": "2026-10-03T16:00"
+        },
+        {
+            "kolejka": 9,
+            "gosp": "Unia Kosztowy",
+            "gosp_slug": "unia-kosztowy",
+            "gosc": "Przemsza Okradzionów",
+            "gosc_slug": "przemsza-okradzionow",
+            "wynik": [
+                4,
+                2
+            ],
+            "data": "2026-10-03T15:00"
+        },
+        {
+            "kolejka": 9,
+            "gosp": "Pogoń Imielin",
+            "gosp_slug": "pogon-imielin",
+            "gosc": "Ostoja Żelisławice",
+            "gosc_slug": "ostoja-zelislawice",
+            "wynik": [
+                1,
+                3
+            ],
+            "data": "2026-10-03T11:00"
+        },
+        {
+            "kolejka": 9,
+            "gosp": "Niwy Brudzowice",
+            "gosp_slug": "niwy-brudzowice",
+            "gosc": "Warta Zawiercie",
+            "gosc_slug": "warta-zawiercie",
+            "wynik": [
+                4,
+                1
+            ],
+            "data": "2026-10-03T12:00"
+        },
+        {
+            "kolejka": 9,
+            "gosp": "Siemianowiczanka",
+            "gosp_slug": "siemianowiczanka",
+            "gosc": "Wawel Wirek",
+            "gosc_slug": "wawel-wirek",
+            "wynik": [
+                2,
+                1
+            ],
+            "data": "2026-10-03T15:30"
+        },
+        {
+            "kolejka": 9,
+            "gosp": "GKS III Katowice",
+            "gosp_slug": "gks-iii-katowice",
+            "gosc": "Jastrząb Bielszowice",
+            "gosc_slug": "jastrzab-bielszowice",
+            "wynik": [
+                5,
+                0
+            ],
+            "data": "2026-10-04T18:00"
+        },
+        {
+            "kolejka": 9,
+            "gosp": "Górnik Sosnowiec",
+            "gosp_slug": "gornik-sosnowiec",
+            "gosc": "Cyklon Rogoźnik",
+            "gosc_slug": "cyklon-rogoznik",
+            "wynik": [
+                1,
+                2
+            ],
+            "data": "2026-10-04T14:30"
+        },
+        {
+            "kolejka": 9,
+            "gosp": "Górnik Wojkowice",
+            "gosp_slug": "gornik-wojkowice",
+            "gosc": "Unia Ząbkowice",
+            "gosc_slug": "unia-zabkowice",
+            "wynik": [
+                4,
+                2
+            ],
+            "data": "2026-10-03T15:00"
+        },
+        {
+            "kolejka": 10,
+            "gosp": "Stadion Śląski Chorzów",
+            "gosp_slug": "stadion-slaski-chorzow",
+            "gosc": "Unia Ząbkowice",
+            "gosc_slug": "unia-zabkowice",
+            "wynik": [
+                2,
+                3
+            ],
+            "data": "2026-10-11T11:00"
+        },
+        {
+            "kolejka": 10,
+            "gosp": "Cyklon Rogoźnik",
+            "gosp_slug": "cyklon-rogoznik",
+            "gosc": "Górnik Wojkowice",
+            "gosc_slug": "gornik-wojkowice",
+            "wynik": [
+                2,
+                3
+            ],
+            "data": "2026-10-10T11:00"
+        },
+        {
+            "kolejka": 10,
+            "gosp": "Jastrząb Bielszowice",
+            "gosp_slug": "jastrzab-bielszowice",
+            "gosc": "Górnik Sosnowiec",
+            "gosc_slug": "gornik-sosnowiec",
+            "wynik": [
+                2,
+                1
+            ],
+            "data": "2026-10-10T15:00"
+        },
+        {
+            "kolejka": 10,
+            "gosp": "Wawel Wirek",
+            "gosp_slug": "wawel-wirek",
+            "gosc": "GKS III Katowice",
+            "gosc_slug": "gks-iii-katowice",
+            "wynik": [
+                1,
+                6
+            ],
+            "data": "2026-10-10T11:30"
+        },
+        {
+            "kolejka": 10,
+            "gosp": "Warta Zawiercie",
+            "gosp_slug": "warta-zawiercie",
+            "gosc": "Siemianowiczanka",
+            "gosc_slug": "siemianowiczanka",
+            "wynik": [
+                3,
+                2
+            ],
+            "data": "2026-10-10T15:00"
+        },
+        {
+            "kolejka": 10,
+            "gosp": "Ostoja Żelisławice",
+            "gosp_slug": "ostoja-zelislawice",
+            "gosc": "Niwy Brudzowice",
+            "gosc_slug": "niwy-brudzowice",
+            "wynik": [
+                2,
+                2
+            ],
+            "data": "2026-10-10T11:00"
+        },
+        {
+            "kolejka": 10,
+            "gosp": "Przemsza Okradzionów",
+            "gosp_slug": "przemsza-okradzionow",
+            "gosc": "Pogoń Imielin",
+            "gosc_slug": "pogon-imielin",
+            "wynik": [
+                4,
+                2
+            ],
+            "data": "2026-10-10T15:45"
+        },
+        {
+            "kolejka": 10,
+            "gosp": "Urania Ruda Śląska",
+            "gosp_slug": "urania-ruda-slaska",
+            "gosc": "Unia Kosztowy",
+            "gosc_slug": "unia-kosztowy",
+            "wynik": [
+                0,
+                0
+            ],
+            "data": "2026-10-10T11:15"
+        },
+        {
+            "kolejka": 11,
+            "gosp": "Unia Kosztowy",
+            "gosp_slug": "unia-kosztowy",
+            "gosc": "Stadion Śląski Chorzów",
+            "gosc_slug": "stadion-slaski-chorzow",
+            "wynik": [
+                1,
+                4
+            ],
+            "data": "2026-10-17T15:00"
+        },
+        {
+            "kolejka": 11,
+            "gosp": "Pogoń Imielin",
+            "gosp_slug": "pogon-imielin",
+            "gosc": "Urania Ruda Śląska",
+            "gosc_slug": "urania-ruda-slaska",
+            "wynik": [
+                3,
+                1
+            ],
+            "data": "2026-10-17T12:30"
+        },
+        {
+            "kolejka": 11,
+            "gosp": "Niwy Brudzowice",
+            "gosp_slug": "niwy-brudzowice",
+            "gosc": "Przemsza Okradzionów",
+            "gosc_slug": "przemsza-okradzionow",
+            "wynik": [
+                5,
+                1
+            ],
+            "data": "2026-10-17T15:00"
+        },
+        {
+            "kolejka": 11,
+            "gosp": "Siemianowiczanka",
+            "gosp_slug": "siemianowiczanka",
+            "gosc": "Ostoja Żelisławice",
+            "gosc_slug": "ostoja-zelislawice",
+            "wynik": [
+                6,
+                1
+            ],
+            "data": "2026-10-17T15:15"
+        },
+        {
+            "kolejka": 11,
+            "gosp": "GKS III Katowice",
+            "gosp_slug": "gks-iii-katowice",
+            "gosc": "Warta Zawiercie",
+            "gosc_slug": "warta-zawiercie",
+            "wynik": [
+                5,
+                2
+            ],
+            "data": "2026-10-18T18:00"
+        },
+        {
+            "kolejka": 11,
+            "gosp": "Górnik Sosnowiec",
+            "gosp_slug": "gornik-sosnowiec",
+            "gosc": "Wawel Wirek",
+            "gosc_slug": "wawel-wirek",
+            "wynik": [
+                1,
+                0
+            ],
+            "data": "2026-10-17T15:00"
+        },
+        {
+            "kolejka": 11,
+            "gosp": "Górnik Wojkowice",
+            "gosp_slug": "gornik-wojkowice",
+            "gosc": "Jastrząb Bielszowice",
+            "gosc_slug": "jastrzab-bielszowice",
+            "wynik": [
+                0,
+                3
+            ],
+            "data": "2026-10-17T15:00"
+        },
+        {
+            "kolejka": 11,
+            "gosp": "Unia Ząbkowice",
+            "gosp_slug": "unia-zabkowice",
+            "gosc": "Cyklon Rogoźnik",
+            "gosc_slug": "cyklon-rogoznik",
+            "wynik": [
+                4,
+                3
+            ],
+            "data": "2026-10-17T15:00"
+        },
+        {
+            "kolejka": 12,
+            "gosp": "Stadion Śląski Chorzów",
+            "gosp_slug": "stadion-slaski-chorzow",
+            "gosc": "Cyklon Rogoźnik",
+            "gosc_slug": "cyklon-rogoznik",
+            "wynik": [
+                2,
+                2
+            ],
+            "data": "2026-10-25T11:00"
+        },
+        {
+            "kolejka": 12,
+            "gosp": "Jastrząb Bielszowice",
+            "gosp_slug": "jastrzab-bielszowice",
+            "gosc": "Unia Ząbkowice",
+            "gosc_slug": "unia-zabkowice",
+            "wynik": [
+                0,
+                3
+            ],
+            "data": "2026-10-24T15:00"
+        },
+        {
+            "kolejka": 12,
+            "gosp": "Wawel Wirek",
+            "gosp_slug": "wawel-wirek",
+            "gosc": "Górnik Wojkowice",
+            "gosc_slug": "gornik-wojkowice",
+            "wynik": [
+                0,
+                3
+            ],
+            "data": "2026-10-24T11:30"
+        },
+        {
+            "kolejka": 12,
+            "gosp": "Warta Zawiercie",
+            "gosp_slug": "warta-zawiercie",
+            "gosc": "Górnik Sosnowiec",
+            "gosc_slug": "gornik-sosnowiec",
+            "wynik": [
+                4,
+                3
+            ],
+            "data": "2026-10-24T15:00"
+        },
+        {
+            "kolejka": 12,
+            "gosp": "Ostoja Żelisławice",
+            "gosp_slug": "ostoja-zelislawice",
+            "gosc": "GKS III Katowice",
+            "gosc_slug": "gks-iii-katowice",
+            "wynik": [
+                4,
+                1
+            ],
+            "data": "2026-10-25T11:00"
+        },
+        {
+            "kolejka": 12,
+            "gosp": "Przemsza Okradzionów",
+            "gosp_slug": "przemsza-okradzionow",
+            "gosc": "Siemianowiczanka",
+            "gosc_slug": "siemianowiczanka",
+            "wynik": [
+                3,
+                3
+            ],
+            "data": "2026-10-25T11:00"
+        },
+        {
+            "kolejka": 12,
+            "gosp": "Urania Ruda Śląska",
+            "gosp_slug": "urania-ruda-slaska",
+            "gosc": "Niwy Brudzowice",
+            "gosc_slug": "niwy-brudzowice",
+            "wynik": [
+                0,
+                1
+            ],
+            "data": "2026-10-24T11:15"
+        },
+        {
+            "kolejka": 12,
+            "gosp": "Unia Kosztowy",
+            "gosp_slug": "unia-kosztowy",
+            "gosc": "Pogoń Imielin",
+            "gosc_slug": "pogon-imielin",
+            "wynik": [
+                1,
+                2
+            ],
+            "data": "2026-10-24T15:00"
+        },
+        {
+            "kolejka": 13,
+            "gosp": "Pogoń Imielin",
+            "gosp_slug": "pogon-imielin",
+            "gosc": "Stadion Śląski Chorzów",
+            "gosc_slug": "stadion-slaski-chorzow",
+            "wynik": null,
+            "data": "2026-10-29T18:30"
+        },
+        {
+            "kolejka": 13,
+            "gosp": "Niwy Brudzowice",
+            "gosp_slug": "niwy-brudzowice",
+            "gosc": "Unia Kosztowy",
+            "gosc_slug": "unia-kosztowy",
+            "wynik": null,
+            "data": "2026-10-31T14:00"
+        },
+        {
+            "kolejka": 13,
+            "gosp": "Siemianowiczanka",
+            "gosp_slug": "siemianowiczanka",
+            "gosc": "Urania Ruda Śląska",
+            "gosc_slug": "urania-ruda-slaska",
+            "wynik": null,
+            "data": "2026-10-30T19:45"
+        },
+        {
+            "kolejka": 13,
+            "gosp": "GKS III Katowice",
+            "gosp_slug": "gks-iii-katowice",
+            "gosc": "Przemsza Okradzionów",
+            "gosc_slug": "przemsza-okradzionow",
+            "wynik": null,
+            "data": "2026-10-31T14:30"
+        },
+        {
+            "kolejka": 13,
+            "gosp": "Górnik Sosnowiec",
+            "gosp_slug": "gornik-sosnowiec",
+            "gosc": "Ostoja Żelisławice",
+            "gosc_slug": "ostoja-zelislawice",
+            "wynik": null,
+            "data": "2026-10-31T14:30"
+        },
+        {
+            "kolejka": 13,
+            "gosp": "Górnik Wojkowice",
+            "gosp_slug": "gornik-wojkowice",
+            "gosc": "Warta Zawiercie",
+            "gosc_slug": "warta-zawiercie",
+            "wynik": null,
+            "data": "2026-10-31T14:00"
+        },
+        {
+            "kolejka": 13,
+            "gosp": "Unia Ząbkowice",
+            "gosp_slug": "unia-zabkowice",
+            "gosc": "Wawel Wirek",
+            "gosc_slug": "wawel-wirek",
+            "wynik": null,
+            "data": "2026-10-31T14:00"
+        },
+        {
+            "kolejka": 13,
+            "gosp": "Cyklon Rogoźnik",
+            "gosp_slug": "cyklon-rogoznik",
+            "gosc": "Jastrząb Bielszowice",
+            "gosc_slug": "jastrzab-bielszowice",
+            "wynik": null,
+            "data": "2026-10-31T14:00"
+        },
+        {
+            "kolejka": 14,
+            "gosp": "Stadion Śląski Chorzów",
+            "gosp_slug": "stadion-slaski-chorzow",
+            "gosc": "Jastrząb Bielszowice",
+            "gosc_slug": "jastrzab-bielszowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 14,
+            "gosp": "Wawel Wirek",
+            "gosp_slug": "wawel-wirek",
+            "gosc": "Cyklon Rogoźnik",
+            "gosc_slug": "cyklon-rogoznik",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 14,
+            "gosp": "Warta Zawiercie",
+            "gosp_slug": "warta-zawiercie",
+            "gosc": "Unia Ząbkowice",
+            "gosc_slug": "unia-zabkowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 14,
+            "gosp": "Ostoja Żelisławice",
+            "gosp_slug": "ostoja-zelislawice",
+            "gosc": "Górnik Wojkowice",
+            "gosc_slug": "gornik-wojkowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 14,
+            "gosp": "Przemsza Okradzionów",
+            "gosp_slug": "przemsza-okradzionow",
+            "gosc": "Górnik Sosnowiec",
+            "gosc_slug": "gornik-sosnowiec",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 14,
+            "gosp": "Urania Ruda Śląska",
+            "gosp_slug": "urania-ruda-slaska",
+            "gosc": "GKS III Katowice",
+            "gosc_slug": "gks-iii-katowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 14,
+            "gosp": "Unia Kosztowy",
+            "gosp_slug": "unia-kosztowy",
+            "gosc": "Siemianowiczanka",
+            "gosc_slug": "siemianowiczanka",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 14,
+            "gosp": "Pogoń Imielin",
+            "gosp_slug": "pogon-imielin",
+            "gosc": "Niwy Brudzowice",
+            "gosc_slug": "niwy-brudzowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 15,
+            "gosp": "Niwy Brudzowice",
+            "gosp_slug": "niwy-brudzowice",
+            "gosc": "Stadion Śląski Chorzów",
+            "gosc_slug": "stadion-slaski-chorzow",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 15,
+            "gosp": "Siemianowiczanka",
+            "gosp_slug": "siemianowiczanka",
+            "gosc": "Pogoń Imielin",
+            "gosc_slug": "pogon-imielin",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 15,
+            "gosp": "GKS III Katowice",
+            "gosp_slug": "gks-iii-katowice",
+            "gosc": "Unia Kosztowy",
+            "gosc_slug": "unia-kosztowy",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 15,
+            "gosp": "Górnik Sosnowiec",
+            "gosp_slug": "gornik-sosnowiec",
+            "gosc": "Urania Ruda Śląska",
+            "gosc_slug": "urania-ruda-slaska",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 15,
+            "gosp": "Górnik Wojkowice",
+            "gosp_slug": "gornik-wojkowice",
+            "gosc": "Przemsza Okradzionów",
+            "gosc_slug": "przemsza-okradzionow",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 15,
+            "gosp": "Unia Ząbkowice",
+            "gosp_slug": "unia-zabkowice",
+            "gosc": "Ostoja Żelisławice",
+            "gosc_slug": "ostoja-zelislawice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 15,
+            "gosp": "Cyklon Rogoźnik",
+            "gosp_slug": "cyklon-rogoznik",
+            "gosc": "Warta Zawiercie",
+            "gosc_slug": "warta-zawiercie",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 15,
+            "gosp": "Jastrząb Bielszowice",
+            "gosp_slug": "jastrzab-bielszowice",
+            "gosc": "Wawel Wirek",
+            "gosc_slug": "wawel-wirek",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 16,
+            "gosp": "Warta Zawiercie",
+            "gosp_slug": "warta-zawiercie",
+            "gosc": "Jastrząb Bielszowice",
+            "gosc_slug": "jastrzab-bielszowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 16,
+            "gosp": "Stadion Śląski Chorzów",
+            "gosp_slug": "stadion-slaski-chorzow",
+            "gosc": "Wawel Wirek",
+            "gosc_slug": "wawel-wirek",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 16,
+            "gosp": "Cyklon Rogoźnik",
+            "gosp_slug": "cyklon-rogoznik",
+            "gosc": "Ostoja Żelisławice",
+            "gosc_slug": "ostoja-zelislawice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 16,
+            "gosp": "Unia Ząbkowice",
+            "gosp_slug": "unia-zabkowice",
+            "gosc": "Przemsza Okradzionów",
+            "gosc_slug": "przemsza-okradzionow",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 16,
+            "gosp": "Górnik Wojkowice",
+            "gosp_slug": "gornik-wojkowice",
+            "gosc": "Urania Ruda Śląska",
+            "gosc_slug": "urania-ruda-slaska",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 16,
+            "gosp": "Górnik Sosnowiec",
+            "gosp_slug": "gornik-sosnowiec",
+            "gosc": "Unia Kosztowy",
+            "gosc_slug": "unia-kosztowy",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 16,
+            "gosp": "GKS III Katowice",
+            "gosp_slug": "gks-iii-katowice",
+            "gosc": "Pogoń Imielin",
+            "gosc_slug": "pogon-imielin",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 16,
+            "gosp": "Siemianowiczanka",
+            "gosp_slug": "siemianowiczanka",
+            "gosc": "Niwy Brudzowice",
+            "gosc_slug": "niwy-brudzowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 17,
+            "gosp": "Siemianowiczanka",
+            "gosp_slug": "siemianowiczanka",
+            "gosc": "Stadion Śląski Chorzów",
+            "gosc_slug": "stadion-slaski-chorzow",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 17,
+            "gosp": "Niwy Brudzowice",
+            "gosp_slug": "niwy-brudzowice",
+            "gosc": "GKS III Katowice",
+            "gosc_slug": "gks-iii-katowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 17,
+            "gosp": "Pogoń Imielin",
+            "gosp_slug": "pogon-imielin",
+            "gosc": "Górnik Sosnowiec",
+            "gosc_slug": "gornik-sosnowiec",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 17,
+            "gosp": "Unia Kosztowy",
+            "gosp_slug": "unia-kosztowy",
+            "gosc": "Górnik Wojkowice",
+            "gosc_slug": "gornik-wojkowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 17,
+            "gosp": "Urania Ruda Śląska",
+            "gosp_slug": "urania-ruda-slaska",
+            "gosc": "Unia Ząbkowice",
+            "gosc_slug": "unia-zabkowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 17,
+            "gosp": "Przemsza Okradzionów",
+            "gosp_slug": "przemsza-okradzionow",
+            "gosc": "Cyklon Rogoźnik",
+            "gosc_slug": "cyklon-rogoznik",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 17,
+            "gosp": "Ostoja Żelisławice",
+            "gosp_slug": "ostoja-zelislawice",
+            "gosc": "Jastrząb Bielszowice",
+            "gosc_slug": "jastrzab-bielszowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 17,
+            "gosp": "Warta Zawiercie",
+            "gosp_slug": "warta-zawiercie",
+            "gosc": "Wawel Wirek",
+            "gosc_slug": "wawel-wirek",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 18,
+            "gosp": "Stadion Śląski Chorzów",
+            "gosp_slug": "stadion-slaski-chorzow",
+            "gosc": "Warta Zawiercie",
+            "gosc_slug": "warta-zawiercie",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 18,
+            "gosp": "Wawel Wirek",
+            "gosp_slug": "wawel-wirek",
+            "gosc": "Ostoja Żelisławice",
+            "gosc_slug": "ostoja-zelislawice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 18,
+            "gosp": "Jastrząb Bielszowice",
+            "gosp_slug": "jastrzab-bielszowice",
+            "gosc": "Przemsza Okradzionów",
+            "gosc_slug": "przemsza-okradzionow",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 18,
+            "gosp": "Cyklon Rogoźnik",
+            "gosp_slug": "cyklon-rogoznik",
+            "gosc": "Urania Ruda Śląska",
+            "gosc_slug": "urania-ruda-slaska",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 18,
+            "gosp": "Unia Ząbkowice",
+            "gosp_slug": "unia-zabkowice",
+            "gosc": "Unia Kosztowy",
+            "gosc_slug": "unia-kosztowy",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 18,
+            "gosp": "Górnik Wojkowice",
+            "gosp_slug": "gornik-wojkowice",
+            "gosc": "Pogoń Imielin",
+            "gosc_slug": "pogon-imielin",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 18,
+            "gosp": "Górnik Sosnowiec",
+            "gosp_slug": "gornik-sosnowiec",
+            "gosc": "Niwy Brudzowice",
+            "gosc_slug": "niwy-brudzowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 18,
+            "gosp": "GKS III Katowice",
+            "gosp_slug": "gks-iii-katowice",
+            "gosc": "Siemianowiczanka",
+            "gosc_slug": "siemianowiczanka",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 19,
+            "gosp": "GKS III Katowice",
+            "gosp_slug": "gks-iii-katowice",
+            "gosc": "Stadion Śląski Chorzów",
+            "gosc_slug": "stadion-slaski-chorzow",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 19,
+            "gosp": "Siemianowiczanka",
+            "gosp_slug": "siemianowiczanka",
+            "gosc": "Górnik Sosnowiec",
+            "gosc_slug": "gornik-sosnowiec",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 19,
+            "gosp": "Niwy Brudzowice",
+            "gosp_slug": "niwy-brudzowice",
+            "gosc": "Górnik Wojkowice",
+            "gosc_slug": "gornik-wojkowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 19,
+            "gosp": "Pogoń Imielin",
+            "gosp_slug": "pogon-imielin",
+            "gosc": "Unia Ząbkowice",
+            "gosc_slug": "unia-zabkowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 19,
+            "gosp": "Unia Kosztowy",
+            "gosp_slug": "unia-kosztowy",
+            "gosc": "Cyklon Rogoźnik",
+            "gosc_slug": "cyklon-rogoznik",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 19,
+            "gosp": "Urania Ruda Śląska",
+            "gosp_slug": "urania-ruda-slaska",
+            "gosc": "Jastrząb Bielszowice",
+            "gosc_slug": "jastrzab-bielszowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 19,
+            "gosp": "Przemsza Okradzionów",
+            "gosp_slug": "przemsza-okradzionow",
+            "gosc": "Wawel Wirek",
+            "gosc_slug": "wawel-wirek",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 19,
+            "gosp": "Ostoja Żelisławice",
+            "gosp_slug": "ostoja-zelislawice",
+            "gosc": "Warta Zawiercie",
+            "gosc_slug": "warta-zawiercie",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 20,
+            "gosp": "Stadion Śląski Chorzów",
+            "gosp_slug": "stadion-slaski-chorzow",
+            "gosc": "Ostoja Żelisławice",
+            "gosc_slug": "ostoja-zelislawice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 20,
+            "gosp": "Warta Zawiercie",
+            "gosp_slug": "warta-zawiercie",
+            "gosc": "Przemsza Okradzionów",
+            "gosc_slug": "przemsza-okradzionow",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 20,
+            "gosp": "Wawel Wirek",
+            "gosp_slug": "wawel-wirek",
+            "gosc": "Urania Ruda Śląska",
+            "gosc_slug": "urania-ruda-slaska",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 20,
+            "gosp": "Jastrząb Bielszowice",
+            "gosp_slug": "jastrzab-bielszowice",
+            "gosc": "Unia Kosztowy",
+            "gosc_slug": "unia-kosztowy",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 20,
+            "gosp": "Cyklon Rogoźnik",
+            "gosp_slug": "cyklon-rogoznik",
+            "gosc": "Pogoń Imielin",
+            "gosc_slug": "pogon-imielin",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 20,
+            "gosp": "Unia Ząbkowice",
+            "gosp_slug": "unia-zabkowice",
+            "gosc": "Niwy Brudzowice",
+            "gosc_slug": "niwy-brudzowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 20,
+            "gosp": "Górnik Wojkowice",
+            "gosp_slug": "gornik-wojkowice",
+            "gosc": "Siemianowiczanka",
+            "gosc_slug": "siemianowiczanka",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 20,
+            "gosp": "Górnik Sosnowiec",
+            "gosp_slug": "gornik-sosnowiec",
+            "gosc": "GKS III Katowice",
+            "gosc_slug": "gks-iii-katowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 21,
+            "gosp": "Górnik Sosnowiec",
+            "gosp_slug": "gornik-sosnowiec",
+            "gosc": "Stadion Śląski Chorzów",
+            "gosc_slug": "stadion-slaski-chorzow",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 21,
+            "gosp": "GKS III Katowice",
+            "gosp_slug": "gks-iii-katowice",
+            "gosc": "Górnik Wojkowice",
+            "gosc_slug": "gornik-wojkowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 21,
+            "gosp": "Siemianowiczanka",
+            "gosp_slug": "siemianowiczanka",
+            "gosc": "Unia Ząbkowice",
+            "gosc_slug": "unia-zabkowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 21,
+            "gosp": "Niwy Brudzowice",
+            "gosp_slug": "niwy-brudzowice",
+            "gosc": "Cyklon Rogoźnik",
+            "gosc_slug": "cyklon-rogoznik",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 21,
+            "gosp": "Pogoń Imielin",
+            "gosp_slug": "pogon-imielin",
+            "gosc": "Jastrząb Bielszowice",
+            "gosc_slug": "jastrzab-bielszowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 21,
+            "gosp": "Unia Kosztowy",
+            "gosp_slug": "unia-kosztowy",
+            "gosc": "Wawel Wirek",
+            "gosc_slug": "wawel-wirek",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 21,
+            "gosp": "Urania Ruda Śląska",
+            "gosp_slug": "urania-ruda-slaska",
+            "gosc": "Warta Zawiercie",
+            "gosc_slug": "warta-zawiercie",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 21,
+            "gosp": "Przemsza Okradzionów",
+            "gosp_slug": "przemsza-okradzionow",
+            "gosc": "Ostoja Żelisławice",
+            "gosc_slug": "ostoja-zelislawice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 22,
+            "gosp": "Stadion Śląski Chorzów",
+            "gosp_slug": "stadion-slaski-chorzow",
+            "gosc": "Przemsza Okradzionów",
+            "gosc_slug": "przemsza-okradzionow",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 22,
+            "gosp": "Ostoja Żelisławice",
+            "gosp_slug": "ostoja-zelislawice",
+            "gosc": "Urania Ruda Śląska",
+            "gosc_slug": "urania-ruda-slaska",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 22,
+            "gosp": "Warta Zawiercie",
+            "gosp_slug": "warta-zawiercie",
+            "gosc": "Unia Kosztowy",
+            "gosc_slug": "unia-kosztowy",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 22,
+            "gosp": "Wawel Wirek",
+            "gosp_slug": "wawel-wirek",
+            "gosc": "Pogoń Imielin",
+            "gosc_slug": "pogon-imielin",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 22,
+            "gosp": "Jastrząb Bielszowice",
+            "gosp_slug": "jastrzab-bielszowice",
+            "gosc": "Niwy Brudzowice",
+            "gosc_slug": "niwy-brudzowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 22,
+            "gosp": "Cyklon Rogoźnik",
+            "gosp_slug": "cyklon-rogoznik",
+            "gosc": "Siemianowiczanka",
+            "gosc_slug": "siemianowiczanka",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 22,
+            "gosp": "Unia Ząbkowice",
+            "gosp_slug": "unia-zabkowice",
+            "gosc": "GKS III Katowice",
+            "gosc_slug": "gks-iii-katowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 22,
+            "gosp": "Górnik Wojkowice",
+            "gosp_slug": "gornik-wojkowice",
+            "gosc": "Górnik Sosnowiec",
+            "gosc_slug": "gornik-sosnowiec",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 23,
+            "gosp": "Górnik Wojkowice",
+            "gosp_slug": "gornik-wojkowice",
+            "gosc": "Stadion Śląski Chorzów",
+            "gosc_slug": "stadion-slaski-chorzow",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 23,
+            "gosp": "Górnik Sosnowiec",
+            "gosp_slug": "gornik-sosnowiec",
+            "gosc": "Unia Ząbkowice",
+            "gosc_slug": "unia-zabkowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 23,
+            "gosp": "GKS III Katowice",
+            "gosp_slug": "gks-iii-katowice",
+            "gosc": "Cyklon Rogoźnik",
+            "gosc_slug": "cyklon-rogoznik",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 23,
+            "gosp": "Siemianowiczanka",
+            "gosp_slug": "siemianowiczanka",
+            "gosc": "Jastrząb Bielszowice",
+            "gosc_slug": "jastrzab-bielszowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 23,
+            "gosp": "Niwy Brudzowice",
+            "gosp_slug": "niwy-brudzowice",
+            "gosc": "Wawel Wirek",
+            "gosc_slug": "wawel-wirek",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 23,
+            "gosp": "Pogoń Imielin",
+            "gosp_slug": "pogon-imielin",
+            "gosc": "Warta Zawiercie",
+            "gosc_slug": "warta-zawiercie",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 23,
+            "gosp": "Unia Kosztowy",
+            "gosp_slug": "unia-kosztowy",
+            "gosc": "Ostoja Żelisławice",
+            "gosc_slug": "ostoja-zelislawice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 23,
+            "gosp": "Urania Ruda Śląska",
+            "gosp_slug": "urania-ruda-slaska",
+            "gosc": "Przemsza Okradzionów",
+            "gosc_slug": "przemsza-okradzionow",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 24,
+            "gosp": "Stadion Śląski Chorzów",
+            "gosp_slug": "stadion-slaski-chorzow",
+            "gosc": "Urania Ruda Śląska",
+            "gosc_slug": "urania-ruda-slaska",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 24,
+            "gosp": "Przemsza Okradzionów",
+            "gosp_slug": "przemsza-okradzionow",
+            "gosc": "Unia Kosztowy",
+            "gosc_slug": "unia-kosztowy",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 24,
+            "gosp": "Ostoja Żelisławice",
+            "gosp_slug": "ostoja-zelislawice",
+            "gosc": "Pogoń Imielin",
+            "gosc_slug": "pogon-imielin",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 24,
+            "gosp": "Warta Zawiercie",
+            "gosp_slug": "warta-zawiercie",
+            "gosc": "Niwy Brudzowice",
+            "gosc_slug": "niwy-brudzowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 24,
+            "gosp": "Wawel Wirek",
+            "gosp_slug": "wawel-wirek",
+            "gosc": "Siemianowiczanka",
+            "gosc_slug": "siemianowiczanka",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 24,
+            "gosp": "Jastrząb Bielszowice",
+            "gosp_slug": "jastrzab-bielszowice",
+            "gosc": "GKS III Katowice",
+            "gosc_slug": "gks-iii-katowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 24,
+            "gosp": "Cyklon Rogoźnik",
+            "gosp_slug": "cyklon-rogoznik",
+            "gosc": "Górnik Sosnowiec",
+            "gosc_slug": "gornik-sosnowiec",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 24,
+            "gosp": "Unia Ząbkowice",
+            "gosp_slug": "unia-zabkowice",
+            "gosc": "Górnik Wojkowice",
+            "gosc_slug": "gornik-wojkowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 25,
+            "gosp": "Unia Ząbkowice",
+            "gosp_slug": "unia-zabkowice",
+            "gosc": "Stadion Śląski Chorzów",
+            "gosc_slug": "stadion-slaski-chorzow",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 25,
+            "gosp": "Górnik Wojkowice",
+            "gosp_slug": "gornik-wojkowice",
+            "gosc": "Cyklon Rogoźnik",
+            "gosc_slug": "cyklon-rogoznik",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 25,
+            "gosp": "Górnik Sosnowiec",
+            "gosp_slug": "gornik-sosnowiec",
+            "gosc": "Jastrząb Bielszowice",
+            "gosc_slug": "jastrzab-bielszowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 25,
+            "gosp": "GKS III Katowice",
+            "gosp_slug": "gks-iii-katowice",
+            "gosc": "Wawel Wirek",
+            "gosc_slug": "wawel-wirek",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 25,
+            "gosp": "Siemianowiczanka",
+            "gosp_slug": "siemianowiczanka",
+            "gosc": "Warta Zawiercie",
+            "gosc_slug": "warta-zawiercie",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 25,
+            "gosp": "Niwy Brudzowice",
+            "gosp_slug": "niwy-brudzowice",
+            "gosc": "Ostoja Żelisławice",
+            "gosc_slug": "ostoja-zelislawice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 25,
+            "gosp": "Pogoń Imielin",
+            "gosp_slug": "pogon-imielin",
+            "gosc": "Przemsza Okradzionów",
+            "gosc_slug": "przemsza-okradzionow",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 25,
+            "gosp": "Unia Kosztowy",
+            "gosp_slug": "unia-kosztowy",
+            "gosc": "Urania Ruda Śląska",
+            "gosc_slug": "urania-ruda-slaska",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 26,
+            "gosp": "Stadion Śląski Chorzów",
+            "gosp_slug": "stadion-slaski-chorzow",
+            "gosc": "Unia Kosztowy",
+            "gosc_slug": "unia-kosztowy",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 26,
+            "gosp": "Urania Ruda Śląska",
+            "gosp_slug": "urania-ruda-slaska",
+            "gosc": "Pogoń Imielin",
+            "gosc_slug": "pogon-imielin",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 26,
+            "gosp": "Przemsza Okradzionów",
+            "gosp_slug": "przemsza-okradzionow",
+            "gosc": "Niwy Brudzowice",
+            "gosc_slug": "niwy-brudzowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 26,
+            "gosp": "Ostoja Żelisławice",
+            "gosp_slug": "ostoja-zelislawice",
+            "gosc": "Siemianowiczanka",
+            "gosc_slug": "siemianowiczanka",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 26,
+            "gosp": "Warta Zawiercie",
+            "gosp_slug": "warta-zawiercie",
+            "gosc": "GKS III Katowice",
+            "gosc_slug": "gks-iii-katowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 26,
+            "gosp": "Wawel Wirek",
+            "gosp_slug": "wawel-wirek",
+            "gosc": "Górnik Sosnowiec",
+            "gosc_slug": "gornik-sosnowiec",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 26,
+            "gosp": "Jastrząb Bielszowice",
+            "gosp_slug": "jastrzab-bielszowice",
+            "gosc": "Górnik Wojkowice",
+            "gosc_slug": "gornik-wojkowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 26,
+            "gosp": "Cyklon Rogoźnik",
+            "gosp_slug": "cyklon-rogoznik",
+            "gosc": "Unia Ząbkowice",
+            "gosc_slug": "unia-zabkowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 27,
+            "gosp": "Cyklon Rogoźnik",
+            "gosp_slug": "cyklon-rogoznik",
+            "gosc": "Stadion Śląski Chorzów",
+            "gosc_slug": "stadion-slaski-chorzow",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 27,
+            "gosp": "Unia Ząbkowice",
+            "gosp_slug": "unia-zabkowice",
+            "gosc": "Jastrząb Bielszowice",
+            "gosc_slug": "jastrzab-bielszowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 27,
+            "gosp": "Górnik Wojkowice",
+            "gosp_slug": "gornik-wojkowice",
+            "gosc": "Wawel Wirek",
+            "gosc_slug": "wawel-wirek",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 27,
+            "gosp": "Górnik Sosnowiec",
+            "gosp_slug": "gornik-sosnowiec",
+            "gosc": "Warta Zawiercie",
+            "gosc_slug": "warta-zawiercie",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 27,
+            "gosp": "GKS III Katowice",
+            "gosp_slug": "gks-iii-katowice",
+            "gosc": "Ostoja Żelisławice",
+            "gosc_slug": "ostoja-zelislawice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 27,
+            "gosp": "Siemianowiczanka",
+            "gosp_slug": "siemianowiczanka",
+            "gosc": "Przemsza Okradzionów",
+            "gosc_slug": "przemsza-okradzionow",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 27,
+            "gosp": "Niwy Brudzowice",
+            "gosp_slug": "niwy-brudzowice",
+            "gosc": "Urania Ruda Śląska",
+            "gosc_slug": "urania-ruda-slaska",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 27,
+            "gosp": "Pogoń Imielin",
+            "gosp_slug": "pogon-imielin",
+            "gosc": "Unia Kosztowy",
+            "gosc_slug": "unia-kosztowy",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 28,
+            "gosp": "Stadion Śląski Chorzów",
+            "gosp_slug": "stadion-slaski-chorzow",
+            "gosc": "Pogoń Imielin",
+            "gosc_slug": "pogon-imielin",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 28,
+            "gosp": "Unia Kosztowy",
+            "gosp_slug": "unia-kosztowy",
+            "gosc": "Niwy Brudzowice",
+            "gosc_slug": "niwy-brudzowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 28,
+            "gosp": "Urania Ruda Śląska",
+            "gosp_slug": "urania-ruda-slaska",
+            "gosc": "Siemianowiczanka",
+            "gosc_slug": "siemianowiczanka",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 28,
+            "gosp": "Przemsza Okradzionów",
+            "gosp_slug": "przemsza-okradzionow",
+            "gosc": "GKS III Katowice",
+            "gosc_slug": "gks-iii-katowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 28,
+            "gosp": "Ostoja Żelisławice",
+            "gosp_slug": "ostoja-zelislawice",
+            "gosc": "Górnik Sosnowiec",
+            "gosc_slug": "gornik-sosnowiec",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 28,
+            "gosp": "Warta Zawiercie",
+            "gosp_slug": "warta-zawiercie",
+            "gosc": "Górnik Wojkowice",
+            "gosc_slug": "gornik-wojkowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 28,
+            "gosp": "Wawel Wirek",
+            "gosp_slug": "wawel-wirek",
+            "gosc": "Unia Ząbkowice",
+            "gosc_slug": "unia-zabkowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 28,
+            "gosp": "Jastrząb Bielszowice",
+            "gosp_slug": "jastrzab-bielszowice",
+            "gosc": "Cyklon Rogoźnik",
+            "gosc_slug": "cyklon-rogoznik",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 29,
+            "gosp": "Jastrząb Bielszowice",
+            "gosp_slug": "jastrzab-bielszowice",
+            "gosc": "Stadion Śląski Chorzów",
+            "gosc_slug": "stadion-slaski-chorzow",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 29,
+            "gosp": "Cyklon Rogoźnik",
+            "gosp_slug": "cyklon-rogoznik",
+            "gosc": "Wawel Wirek",
+            "gosc_slug": "wawel-wirek",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 29,
+            "gosp": "Unia Ząbkowice",
+            "gosp_slug": "unia-zabkowice",
+            "gosc": "Warta Zawiercie",
+            "gosc_slug": "warta-zawiercie",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 29,
+            "gosp": "Górnik Wojkowice",
+            "gosp_slug": "gornik-wojkowice",
+            "gosc": "Ostoja Żelisławice",
+            "gosc_slug": "ostoja-zelislawice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 29,
+            "gosp": "Górnik Sosnowiec",
+            "gosp_slug": "gornik-sosnowiec",
+            "gosc": "Przemsza Okradzionów",
+            "gosc_slug": "przemsza-okradzionow",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 29,
+            "gosp": "GKS III Katowice",
+            "gosp_slug": "gks-iii-katowice",
+            "gosc": "Urania Ruda Śląska",
+            "gosc_slug": "urania-ruda-slaska",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 29,
+            "gosp": "Siemianowiczanka",
+            "gosp_slug": "siemianowiczanka",
+            "gosc": "Unia Kosztowy",
+            "gosc_slug": "unia-kosztowy",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 29,
+            "gosp": "Niwy Brudzowice",
+            "gosp_slug": "niwy-brudzowice",
+            "gosc": "Pogoń Imielin",
+            "gosc_slug": "pogon-imielin",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 30,
+            "gosp": "Stadion Śląski Chorzów",
+            "gosp_slug": "stadion-slaski-chorzow",
+            "gosc": "Niwy Brudzowice",
+            "gosc_slug": "niwy-brudzowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 30,
+            "gosp": "Pogoń Imielin",
+            "gosp_slug": "pogon-imielin",
+            "gosc": "Siemianowiczanka",
+            "gosc_slug": "siemianowiczanka",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 30,
+            "gosp": "Unia Kosztowy",
+            "gosp_slug": "unia-kosztowy",
+            "gosc": "GKS III Katowice",
+            "gosc_slug": "gks-iii-katowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 30,
+            "gosp": "Urania Ruda Śląska",
+            "gosp_slug": "urania-ruda-slaska",
+            "gosc": "Górnik Sosnowiec",
+            "gosc_slug": "gornik-sosnowiec",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 30,
+            "gosp": "Przemsza Okradzionów",
+            "gosp_slug": "przemsza-okradzionow",
+            "gosc": "Górnik Wojkowice",
+            "gosc_slug": "gornik-wojkowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 30,
+            "gosp": "Ostoja Żelisławice",
+            "gosp_slug": "ostoja-zelislawice",
+            "gosc": "Unia Ząbkowice",
+            "gosc_slug": "unia-zabkowice",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 30,
+            "gosp": "Warta Zawiercie",
+            "gosp_slug": "warta-zawiercie",
+            "gosc": "Cyklon Rogoźnik",
+            "gosc_slug": "cyklon-rogoznik",
+            "wynik": null,
+            "data": null
+        },
+        {
+            "kolejka": 30,
+            "gosp": "Wawel Wirek",
+            "gosp_slug": "wawel-wirek",
+            "gosc": "Jastrząb Bielszowice",
+            "gosc_slug": "jastrzab-bielszowice",
+            "wynik": null,
+            "data": null
+        }
+    ],
+    "pobrano": 1793130727,
+    "zrodlo": "http:\/\/www.90minut.pl\/liga\/1\/liga14959.html"
+}
